@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/render?type=soft&color=0d1117&height=150&section=header&text=Estevan%20%E2%80%A2%20IA%20%26%20Design&fontSize=40&fontAlignY=40&theme=tokyonight" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=0d1117&height=150&section=header&text=Estevan%20Cerqueira&fontSize=40&theme=tokyonight"  alt="header" />
 </p>
 
 <p align="center">
@@ -10,9 +10,7 @@
 
 <p align="center">
   <blockquote>
-    <span style="font-size:1.1em; font-family:monospace;">
-      "Chaque projet est une exploration, chaque détail a son importance."
-    </span>
+    "Chaque projet est une exploration, chaque détail a son importance."
   </blockquote>
 </p>
 
@@ -21,20 +19,17 @@
 <p align="center">
   <b>Freelance & Confidential Projects (¬‿¬)</b><br>
   <blockquote>
-    <span style="font-size:0.9em; font-family:monospace; color: #58a6ff;">
-      // La plupart de mes travaux récents (IA Generative & Data Pipelines) sont en dépôts privés.
-    </span>
+    <code>// La plupart de mes travaux récents (IA & Data, Quitio) sont en dépôts privés.</code>
   </blockquote>
 </p>
 
 &nbsp;
 
-<table border="0">
+<table>
   <tr>
     <td width="50%" align="center" valign="top">
-      <img src="https://github.com/user-attachments/assets/a4bdfdfe-cd26-42ad-8a19-79e412b464f0" width="100%" />
+      <img src="https://pbs.twimg.com/media/ENZN8PmWsAAys1t.jpg" width="100%" />
     </td>
-    
     <td width="50%" align="center" valign="top">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstevanCerq&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="100%" />
       <br><br>
@@ -46,15 +41,5 @@
 &nbsp;
 
 <p align="center">
-  <b>Technical Ecosystem</b><br>
-  <br>
   <img src="https://skillicons.dev/icons?i=py,pytorch,postgresql,react,nextjs,threejs,figma,docker,aws&theme=dark" />
-</p>
-
-&nbsp;
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Piano-000?style=for-the-badge&logo=music&logoColor=white" />
-  <img src="https://img.shields.io/badge/Chess-000?style=for-the-badge&logo=chess&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cinema-000?style=for-the-badge&logo=clapperboard&logoColor=white" />
 </p>
