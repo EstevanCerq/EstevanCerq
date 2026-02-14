@@ -1,16 +1,44 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=IA%20%E2%80%A2%20Data%20%E2%80%A2%20Création&fontSize=50&animation=fadeIn" width="100%"/>
+  
+  <br/>
+  
+  # *Un parcours entre intelligence artificielle, data et création digitale*
+  ### — à la croisée de la technologie et de l'esthétique —
+</div>
 
-<!--
-**EstevanCerq/EstevanCerq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<table>
+  <tr>
+    <td width="45%" valign="top">
+      <br/>
+      <img src="URL_DE_TON_IMAGE_ICI" width="100%"/>
+      <br/><br/>
+      <blockquote>
+        "Chaque projet est une exploration, chaque détail a son importance."
+      </blockquote>
+    </td>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    <td width="55%" valign="top">
+      <h3> ⚡ À propos de moi </h3>
+      
+      Diplômé d'un **Master en IA & Data**, je conçois des expériences digitales qui allient **rigueur technique** et **sensibilité créative**. 
+      
+      <br/>
+
+      <img src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&icon_color=7aa2f7" width="100%"/>
+      
+      <br/>
+
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7" width="100%"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+  <h3> 🛠️ Mon écosystème technique </h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TON_PSEUDO&theme=tokyonight&hide_border=true&area=true&color=7aa2f7" width="100%"/>
+</div>
