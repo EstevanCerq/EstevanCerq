@@ -8,7 +8,7 @@
 <br />
 
 ### 🕵️ Freelance & Confidential Projects
-`// Fraichemet terminé un CDI, la plupart de mes travaux récents (IA & Data) sont en dépôts privés.`
+`// Fraichement terminé un CDI, la plupart de mes travaux récents (IA & Data) sont en dépôts privés.`
 
 </div>
 
