@@ -13,7 +13,7 @@
   <tr>
     <td width="45%" valign="top">
       <br/>
-      <img src="URL_DE_TON_IMAGE_ICI" width="100%"/>
+      <img src="https://i0.wp.com/anitrendz.net/news/wp-content/uploads/2025/04/gachiakuta-enjin-character-visual-scaled-e1744336142590.jpg" width="100%"/>
       <br/><br/>
       <blockquote>
         "Chaque projet est une exploration, chaque détail a son importance."
@@ -27,11 +27,11 @@
       
       <br/>
 
-      <img src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&icon_color=7aa2f7" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=EstevanCerq&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&icon_color=7aa2f7" width="100%"/>
       
       <br/>
 
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstevanCerq&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7" width="100%"/>
     </td>
   </tr>
 </table>
@@ -40,5 +40,5 @@
 
 <div align="center">
   <h3> 🛠️ Mon écosystème technique </h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TON_PSEUDO&theme=tokyonight&hide_border=true&area=true&color=7aa2f7" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EstevanCerq&theme=tokyonight&hide_border=true&area=true&color=7aa2f7" width="100%"/>
 </div>
