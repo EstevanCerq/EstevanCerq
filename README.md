@@ -29,16 +29,16 @@
 
 &nbsp;
 
-<table>
+<table border="0">
   <tr>
-    <td width="50%" align="center">
-      <img src="https://github.com/user-attachments/assets/a4bdfdfe-cd26-42ad-8a19-79e412b464f0" alt="aesthetic" style="width:100%; max-width:380px;" />
+    <td width="50%" align="center" valign="top">
+      <img src="https://github.com/user-attachments/assets/a4bdfdfe-cd26-42ad-8a19-79e412b464f0" width="100%" />
     </td>
     
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstevanCerq&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Langs" style="width:100%; max-width:400px;" />
-      <br>
-      <img src="https://github-readme-stats.vercel.app/api?username=EstevanCerq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=stars,followers" alt="Stats" style="width:100%; max-width:400px;" />
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstevanCerq&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="100%" />
+      <br><br>
+      <img src="https://github-readme-stats.vercel.app/api?username=EstevanCerq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=stars,followers" width="100%" />
     </td>
   </tr>
 </table>
